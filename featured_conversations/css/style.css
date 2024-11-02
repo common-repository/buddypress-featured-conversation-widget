@@ -1,0 +1,49 @@
+.featured_conversations .widgettitle {
+	font-size: 1em;
+	padding: 2px;
+	padding-right: 6px;
+	color: #FFF;
+	text-align: right;
+	margin-bottom: 2px;
+	background-color: #ca2195;
+}
+.featured_conversations .container {
+	color: #393939;
+	font: 10pt;
+	border: 1px solid #ccc;
+	padding: 4px;
+	-moz-border-top-left-radius: 1em;
+	-webkit-border-top-left-radius: 1em;
+}
+.featured_conversations .avatar {
+	float:right;
+	margin-left:5px;
+	border: 2px solid #FFF;
+}
+.featured_conversations .op {
+	margin-bottom:10px;
+	min-height: 40px;
+	margin-top: 5px;
+}
+.featured_conversations .reply {
+	background-color: #dfedff;
+	padding-right:20px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	margin-bottom: 2px;
+	min-height: 40px;
+}
+.featured_conversations .clear {
+	clear:both;
+	height:1px; width:1px;	
+}
+.featured_conversations .content-container {
+	padding-right:10px;
+}
+.featured_conversations .view {
+	float:left;
+}
+.featured_conversations .median {
+	margin: 5px;
+	font-size: .6em;
+}
